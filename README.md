@@ -15,3 +15,5 @@ Fucionalidades:
 4. Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 
+https://github.com/user-attachments/assets/5f70b36a-b1a7-4399-b530-f7bdf546bdf1
+
